@@ -1,4 +1,4 @@
-# RobustMAS: Multi-Agent Teams with Stable Behavioral Profiles
+# BehavioralMAS: Multi-Agent Teams with Stable Behavioral Profiles
 
 This project is a simple prototype of a **multi-agent system** using [Mesa](https://mesa.readthedocs.io/en/stable/), where agents are differentiated by **stable behavioral profiles** (parameters that affect attention, memory, communication, and monitoring).  
 The goal is to compare **homogeneous teams** vs **heterogeneous teams** in **search and rescue** scenarios, evaluating efficiency, coverage, and robustness against failures.
